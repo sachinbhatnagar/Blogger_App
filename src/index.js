@@ -1,4 +1,4 @@
-import ReactDOM from "react-dom";
-import PostForm from "../../blogger_app/src/postform";
+import ReactDOM from 'react-dom';
+import PostForm from './PostForm';
 
-ReactDOM.render(<PostForm />, document.getElementById("root"));
+ReactDOM.render(<PostForm />, document.getElementById('root'));
